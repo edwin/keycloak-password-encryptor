@@ -16,5 +16,5 @@ Red Hat Single Sign-On 7.3
 
 ## Blog Post
 ```
-TBA
+https://edwin.baculsoft.com/2021/03/how-to-encrypt-and-decrypt-password-on-keycloak-or-red-hat-sso/
 ```
